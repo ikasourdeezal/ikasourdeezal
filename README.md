@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi! I'm ikasourdeezal 👋
 
-<!--
-**ikasourdeezal/ikasourdeezal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 I am a Full-Stack Developer and Founder of **Sourdev Agency**.
+💻 Currently specializing in robust web solutions with 3+ years of experience.
+🚀 Deep-diving into the MERN stack and Next.js.
+💻 **Open to work and accepting new projects!**
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,wp,react,nextjs,tailwind,nodejs,mongodb,figma)](https://skillicons.dev)
+
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ikasourdeezal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+---
+*Managing projects for **Sourdev Agency** community.*
