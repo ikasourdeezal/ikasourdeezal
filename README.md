@@ -38,6 +38,7 @@ I am currently **Open to Work** and actively seeking new challenges where I can 
 ### 📈 Current Focus
 * 🎓 Completing the **IBM Full Stack Software Developer Specialization**.
 * 🏗️ Developing **FitForge** – A premium, high-conversion fitness management platform.
+[![FitForge CI](https://github.com/ikasourdeezal/fitforge/actions/workflows/ci.yml/badge.svg)](https://github.com/ikasourdeezal/fitforge/actions)
 * 🛡️ Enhancing web security protocols and automated deployment workflows.
 
 ---
